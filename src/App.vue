@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="jemin123" />
+    <HelloWorld msg="jemin" />
     <!-- 컴포넌트 명명법 종류 -->
     <!-- <hello-world></hello-world>
     <HelloWorld></HelloWorld>
