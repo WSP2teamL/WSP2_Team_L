@@ -43,6 +43,6 @@
 .line {
   width: 25rem;
   margin: 0 auto;
-  color: ;
+  color: #42b983;
 }
 </style>
